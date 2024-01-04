@@ -11,11 +11,13 @@ EXCEPTION HANDLING
    
      try {
         // code that may throw an exception
-        }catch (ExceptionType name) {
+     }
+     catch (ExceptionType name) {
         // code to handle the Exception
-        }finally {
+     }
+     finally {
         // code to be executed regardless of whether an exception appears or not
-        }
+     }
     
 
     In the above code, if an exception of ExceptionType occurs in the try block, the catch block will be executed. The finally block is optional and contains all the crucial statements that must be executed whether an exception occurs or not.
