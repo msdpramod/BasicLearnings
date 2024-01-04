@@ -12,11 +12,11 @@ What is Constructor
 ---
 CLASS
 
-• Concrete Class
-• Abstract Class
-• Super Class and Sub Class
-• Object Class
-• Nested Class
+- Concrete Class
+- Abstract Class
+- Super Class and Sub Class
+- Object Class
+- Nested Class
 - Inner Class (Non Static Nested Class)
 - Anonymous Inner Class
 - Member Inner Class
