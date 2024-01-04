@@ -98,7 +98,7 @@ THREADS
     * Enhancements in Optional class
     * New Methods in the String class relevant to concurrency
 ___
->Type of Memory (Stack and Heap)
+Type of Memory (Stack and Heap)
 - What kind of data is Stored in Stack and Heap with Example
 - Types of References
   - Strong Reference
