@@ -7,6 +7,8 @@ There are two types of exceptions in Java:
 Checked exceptions: These are exceptional conditions that a well-written application should anticipate and recover from. For example, FileNotFoundException.
 Unchecked exceptions: These are exceptional conditions that are external to the application, and that the application usually cannot anticipate or recover from. For example, NullPointerException.
 Here is a very simple example of how exceptions are used in Java:
+
+
 >try {
 // code that may throw an exception
 } catch (ExceptionType name) {
