@@ -1,18 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 What is Constructor
 
 - Rules of Constructor
