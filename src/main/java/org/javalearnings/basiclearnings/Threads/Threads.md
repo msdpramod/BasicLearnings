@@ -10,12 +10,13 @@ EXCEPTION HANDLING
     Here is a very simple example of how exceptions are used in Java:
    
      try {
-    // code that may throw an exception
-    } catch (ExceptionType name) {
-    // code to handle the Exception
-    } finally {
-    // code to be executed regardless of whether an exception appears or not
-    }
+        // code that may throw an exception
+        }catch (ExceptionType name) {
+        // code to handle the Exception
+        }finally {
+        // code to be executed regardless of whether an exception appears or not
+        }
+    
 
     In the above code, if an exception of ExceptionType occurs in the try block, the catch block will be executed. The finally block is optional and contains all the crucial statements that must be executed whether an exception occurs or not.
     Java provides a hierarchy of exception classes, all inheriting from java.lang.Throwable, which allows the programmer to differentiate various types of exceptions.
