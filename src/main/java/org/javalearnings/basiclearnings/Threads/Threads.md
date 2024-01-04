@@ -1,6 +1,6 @@
-# H1 
+# 
 EXCEPTION HANDLING
-# H3
+# 
 What is Exception
 
 >An Exception in programming is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions. This can occur for various reasons, such as invalid user input, failure of a physical device, failed network connections, etc.
