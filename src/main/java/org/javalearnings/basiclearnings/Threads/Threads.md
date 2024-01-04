@@ -25,8 +25,12 @@ EXCEPTION HANDLING
 
 
 
--Exception Hierarchy
+Exception Hierarchy
+
 - Uncheck / Runtime Exception
+    Unchecked exceptions, also known as Runtime Exceptions, in Java are a type of exception that is not checked at compile-time, but at runtime.
+    These exceptions are called "Runtime Exceptions" because they occur during the execution of the program, and not during the compile-time. They are also known as "unchecked exceptions" because the compiler does not check whether these exceptions are being handled or declared in a method.
+
 - Checked / CompileTime Exception
 - How to handle the Exception properly (try, catch, finally, throw, throws)
 - Creating User-Defined Exception class
