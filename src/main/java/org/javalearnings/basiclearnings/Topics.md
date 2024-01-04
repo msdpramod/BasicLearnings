@@ -1,4 +1,4 @@
-> THREADS
+THREADS
 -  Introduction of Multithreading: (Covered in this Video)
     * Definition of Multithreading
     * Benefits and Challenges of Multithreading
@@ -97,7 +97,7 @@
     * Local-Variable Type Inference (var keyword)
     * Enhancements in Optional class
     * New Methods in the String class relevant to concurrency
-
+___
 >Type of Memory (Stack and Heap)
 - What kind of data is Stored in Stack and Heap with Example
 - Types of References
