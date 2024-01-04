@@ -215,7 +215,7 @@ REFLECTIONS
 - How to access and invoke private constructor using reflection.
 - How Reflection breaks Singleton design pattern and how to resolve.
 ---
-EXCEPTION HANDLING
+[EXCEPTION HANDLING](https://medium.com/@ObitoUchia/threads-92867c9716c4)
 
 - What is Exception
 - Exception Hierarchy
