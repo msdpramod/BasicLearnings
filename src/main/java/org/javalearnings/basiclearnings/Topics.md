@@ -97,8 +97,33 @@ THREADS
     * Local-Variable Type Inference (var keyword)
     * Enhancements in Optional class
     * New Methods in the String class relevant to concurrency
+---
+REFLECTIONS
+
+- What is "Class" class which JVM creates at runtime
+- How to Reflect Classes and access its metadata
+- How to Reflect Methods and access its metadata
+- How to Invoke Methods using Reflection
+- How to Reflect Fields and access its metadata
+- How to access and change the value of Public field
+- How to access and change the value of Private field.
+- How to Reflect Constructor and access its metadata.
+- How to access and invoke private constructor using reflection.
+- How Reflection breaks Singleton design pattern and how to resolve.
+---
+EXCEPTION HANDLING
+
+- What is Exception
+- Exception Hierarchy
+- Uncheck / Runtime Exception
+- Checked / CompileTime Exception
+- How to handle the Exception properly (try, catch, finally, throw, throws)
+- Creating User-Defined Exception class
+- Advantages of Exception Handling
+- Disadvantage of Exception Handling
 ___
 Type of Memory (Stack and Heap)
+
 - What kind of data is Stored in Stack and Heap with Example
 - Types of References
   - Strong Reference
