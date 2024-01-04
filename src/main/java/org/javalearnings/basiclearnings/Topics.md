@@ -22,13 +22,13 @@ CLASS
 - Member Inner Class
 - Local Inner Class
 - Static Nested Class / Static Class
-  • Generic Class
-  • POJO Class
-  • Enum Class
-  • Final Class
-  • Singleton Class
-  • Immutable Class
-  • Wrapper Class
+  - Generic Class
+  - POJO Class
+  - Enum Class
+  - Final Class
+  - Singleton Class
+  - Immutable Class
+  - Wrapper Class
 ---
 GENERICS
 
