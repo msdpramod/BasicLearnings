@@ -20,7 +20,7 @@ EXCEPTION HANDLING
      }
     
 
--In the above code, if an exception of ExceptionType occurs in the try block, the catch block will be executed. The finally block is optional and contains all the crucial statements that must be executed whether an exception occurs or not.
+- In the above code, if an exception of ExceptionType occurs in the try block, the catch block will be executed. The finally block is optional and contains all the crucial statements that must be executed whether an exception occurs or not.
     Java provides a hierarchy of exception classes, all inheriting from java.lang.Throwable, which allows the programmer to differentiate various types of exceptions.
 
 
