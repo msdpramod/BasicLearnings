@@ -19,12 +19,12 @@ EXCEPTION HANDLING
      finally {
         // code to be executed regardless of whether an exception appears or not
      }
-    
+    ~~~~**
 
-  - In the above code, if an exception of ExceptionType occurs in the try block, the catch block will be executed. The finally block is optional and contains all the crucial statements that must be executed whether an exception occurs or not.
-      Java provides a hierarchy of exception classes, all inheriting from java.lang.Throwable, which allows the programmer to differentiate various types of exceptions.
+- In the above code, if an exception of ExceptionType occurs in the try block, the catch block will be executed. The finally block is optional and contains all the crucial statements that must be executed whether an exception occurs or not.
+Java provides a hierarchy of exception classes, all inheriting from java.lang.Throwable, which allows the programmer to differentiate various types of exceptions.
 
-      Here are a few characteristics of unchecked exceptions (like Runtime Exceptions) in Java:
+Here are a few characteristics of unchecked exceptions (like Runtime Exceptions) in Java:
       1. All subclasses of RuntimeException and Error classes are considered as unchecked exceptions. For example, NullPointerException, ArrayIndexOutOfBoundsException, ClassCastException, NumberFormatException, ArithmeticException, etc.
       2. Unchecked exceptions are not required to be declared in the method signature's throws clause.
       3. Unchecked exceptions represent problems that result from faults in the code often due to logic errors. For example, if you try to access an element out of an array's bounds, you would get an ArrayIndexOutOfBoundsException.
