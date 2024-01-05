@@ -189,6 +189,12 @@ THREADS
     * Enhancements in Optional class
     * New Methods in the String class relevant to concurrency
 ---
+[STREAMS](https://notebook.zohopublic.in/public/notes/74tdod05928d081b5484fbfd5937d4129fa64)
+-
+-
+-
+-
+---
 LAMBDA EXPRESSIONS
 
 - What is Functional Interface?
